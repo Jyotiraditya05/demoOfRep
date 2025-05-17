@@ -1,4 +1,4 @@
 # demoOfRep
 My first git repository for demo purpose.
 <br>
-by Jyotiraditya upadhyay
+by Jyotiraditya upadhyay (JD)
