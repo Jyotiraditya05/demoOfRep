@@ -1,3 +1,4 @@
 # demoOfRep
-My first git repository for demo purpose
+My first git repository for demo purpose.
+<br>
 by Jyotiraditya upadhyay
